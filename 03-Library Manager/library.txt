@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Introduction to Actuarial Science",
+        "author": "Frederick D. Laux",
+        "year": 2010,
+        "genre": "Actuarial Science, Mathematics, Finance",
+        "read": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 2016,
+        "genre": "Fiction",
+        "read": true
+    }
+]
